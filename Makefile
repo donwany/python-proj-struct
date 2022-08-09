@@ -11,7 +11,7 @@ push:
 lint:
 	pytest main.py
 test:
-	python -m pytest -vv --cov=main tests/test_*.py
+	python -m pytest -vv --cov=main.py tests/test_*.py
 dist:
 	python setup.py sdist bdist_wheel
 pypi:
