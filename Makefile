@@ -10,8 +10,7 @@ push:
 	docker push worldbosskafka/<repo-name>
 lint:
 	pytest main.py
-test:
-	pytest -vv --cov=main.py tests/test_*.py
+#test: pytest -vv --cov=main.py tests/test_*.py
 dist:
 	python setup.py sdist bdist_wheel
 pypi:
@@ -21,4 +20,4 @@ deploy:
 clean:
 	rm -rf dist
 all:
-	install format run test lint dist
+	install format run  lint dist

@@ -17,16 +17,16 @@ jobs:
           make install
       - name: Lint with pylint
         run: |
-          make test
-      - name: Test with pytest
-        run: |
-          make test
+          make lint
+#      - name: Test with pytest
+#        run: |
+#          make test
       - name: Format code with Python Black
         run: |
           make format
       - name: Run all code
         run: |
           make all
-      - name: Build and Push
-        run: |
-          make build push
+#      - name: Build and Push
+#        run: |
+#          make build push
