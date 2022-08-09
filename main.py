@@ -22,12 +22,14 @@ else:
     # The response will be a list of results per day, in your case only 1 result.
     response = requests.get(endpoint, params=params).json()
 
+    print(response)
+
     # Finally, you need to traverse through the response and increment the
     # `total_confirmed` variable with the total number of confirmed cases
     # available that day, which is in the field `Cases`.
     total_confirmed = 0
     for day in response:
-        cases = day.get("Cases", 0)
+        cases = day['Cases']  # get("Cases", 0)
         total_confirmed += cases
 
 if __name__ == "__main__":
