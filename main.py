@@ -29,7 +29,7 @@ else:
     # available that day, which is in the field `Cases`.
     total_confirmed = 0
     for day in response:
-        cases = day['Cases']  # get("Cases", 0)
+        cases = int(day['Cases'])  # get("Cases", 0)
         total_confirmed += cases
 
 if __name__ == "__main__":
