@@ -17,7 +17,7 @@ setup(
     long_description=readme,
     author='Theophilus S.',
     author_email='theodondre@gmail.com',
-    url='https://github.com/donwany/samplemod',
+    url='https://github.com/donwany/python-proj-struct',
     license=license,
     install_requires=install_requires,
     packages=find_packages(exclude=('tests', 'docs'))

@@ -1,7 +1,7 @@
-import requests
 import sys
 from datetime import date, timedelta
 
+import requests
 
 if len(sys.argv) != 2:
     raise SystemExit("Usage python main.py <COUNTRY>")
@@ -18,7 +18,8 @@ else:
     endpoint = f"https://api.covid19api.com/country/{country}/status/confirmed"
     params = {"from": str(yesterday), "to": str(today)}
 
-    # The response will be a list of results per day, in your case only 1 result.
+    # The response will be a list of results per day,
+    # in your case only 1 result.
     response = requests.get(endpoint, params=params).json()
 
     # Finally, you need to traverse through the response and increment the
