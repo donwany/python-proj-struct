@@ -28,3 +28,6 @@ make format
 ```
 
 ### Notes
+```shell
+https://zetcode.com/python/pymongo/
+```

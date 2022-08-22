@@ -1,0 +1,8 @@
+ 2022-08-16 02:51:20 PM -  root - INFO - Started...
+ 2022-08-16 02:51:20 PM -  root - INFO - Inventory(name='Milk', unit_price=2, quantity_at_hand=25)
+ 2022-08-16 02:51:20 PM -  root - INFO - {'name': 'Milk', 'unit_price': 2, 'quantity_at_hand': 25}
+ 2022-08-16 02:51:20 PM -  root - INFO - ('Milk', 2, 25)
+ 2022-08-16 02:51:20 PM -  root - INFO - 25
+ 2022-08-16 02:51:20 PM -  root - INFO - Milk
+ 2022-08-16 02:51:20 PM -  root - INFO - 50
+ 2022-08-16 02:51:20 PM -  root - INFO - Finished...

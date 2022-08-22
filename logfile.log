@@ -1,0 +1,85 @@
+2022-08-16 17:06:21,907 : WARNING : __main__ : Hello, warn
+2022-08-16 17:11:40,106 : ERROR : __main__ : Division by zero!
+Traceback (most recent call last):
+  File "/Users/tsiameh/Desktop/coderswhotravel/FilesForPythonProject/logs.py", line 18, in divide
+    out = x/y
+ZeroDivisionError: division by zero
+2022-08-16 17:11:40,108 : ERROR : __main__ : Divide x/y = None
+2022-08-16 17:12:34,457 : ERROR : __main__ : Divide x/y = 5.0
+2022-08-16 17:33:14,824 : ERROR : logs.py : Division by zero!
+Traceback (most recent call last):
+  File "/Users/tsiameh/Desktop/coderswhotravel/FilesForPythonProject/logs.py", line 18, in divide
+    out = x/y
+ZeroDivisionError: division by zero
+2022-08-16 17:33:14,825 : ERROR : logs.py : Divide x/y = None
+2022-08-16 17:36:13,729 : ERROR : logs.py : Division by zero!
+Traceback (most recent call last):
+  File "/Users/tsiameh/Desktop/coderswhotravel/FilesForPythonProject/logs.py", line 25, in divide
+    out = x/y
+ZeroDivisionError: division by zero
+2022-08-16 17:36:13,730 : ERROR : logs.py : Divide x/y = None
+2022-08-16 05:37:37 PM : ERROR : logs.py : Division by zero!
+Traceback (most recent call last):
+  File "/Users/tsiameh/Desktop/coderswhotravel/FilesForPythonProject/logs.py", line 25, in divide
+    out = x/y
+ZeroDivisionError: division by zero
+2022-08-16 05:37:37 PM : ERROR : logs.py : Divide x/y = None
+2022-08-16 05:38:24 PM : ERROR : logs.py : Division by zero!
+Traceback (most recent call last):
+  File "/Users/tsiameh/Desktop/coderswhotravel/FilesForPythonProject/logs.py", line 25, in divide
+    out = x/y
+ZeroDivisionError: division by zero
+2022-08-16 05:38:24 PM : ERROR : logs.py : Divide x/y = None
+2022-08-16 05:38:49 PM : ERROR : logs.py : Division by zero!
+Traceback (most recent call last):
+  File "/Users/tsiameh/Desktop/coderswhotravel/FilesForPythonProject/logs.py", line 25, in divide
+    out = x/y
+ZeroDivisionError: division by zero
+2022-08-16 05:38:49 PM : ERROR : logs.py : Divide x/y = None
+2022-08-16 05:38:49 PM : INFO : logs.py : Finished ...
+2022-08-16 05:39:34 PM : INFO : logs.py : Start ...
+2022-08-16 05:39:34 PM : ERROR : logs.py : Division by zero!
+Traceback (most recent call last):
+  File "/Users/tsiameh/Desktop/coderswhotravel/FilesForPythonProject/logs.py", line 25, in divide
+    out = x/y
+ZeroDivisionError: division by zero
+2022-08-16 05:39:34 PM : ERROR : logs.py : Divide x/y = None
+2022-08-16 05:39:34 PM : INFO : logs.py : Finished ...
+2022-08-16 05:42:38 PM : ERROR : logs.py : Division by zero!
+Traceback (most recent call last):
+  File "/Users/tsiameh/Desktop/coderswhotravel/FilesForPythonProject/logs.py", line 25, in divide
+    out = x/y
+ZeroDivisionError: division by zero
+2022-08-16 05:42:38 PM : ERROR : logs.py : Divide x/y = None
+2022-08-17 10:41:48 AM : INFO : logs.py : Start ...
+2022-08-17 10:41:48 AM : ERROR : logs.py : Division by zero!
+Traceback (most recent call last):
+  File "/Users/tsiameh/Desktop/coderswhotravel/FilesForPythonProject/logs.py", line 25, in divide
+    out = x/y
+ZeroDivisionError: division by zero
+2022-08-17 10:41:48 AM : ERROR : logs.py : Divide x/y = None
+2022-08-17 10:41:48 AM : INFO : logs.py : Finished ...
+2022-08-17 10:42:10 AM : INFO : logs.py : Start ...
+2022-08-17 10:42:10 AM : ERROR : logs.py : Division by zero!
+Traceback (most recent call last):
+  File "/Users/tsiameh/Desktop/coderswhotravel/FilesForPythonProject/logs.py", line 25, in divide
+    out = x/y
+ZeroDivisionError: division by zero
+2022-08-17 10:42:10 AM : ERROR : logs.py : Divide x/y = None
+2022-08-17 10:42:10 AM : INFO : logs.py : Finished ...
+2022-08-17 10:42:29 AM : INFO : logs.py : Start ...
+2022-08-17 10:42:29 AM : ERROR : logs.py : Division by zero!
+Traceback (most recent call last):
+  File "/Users/tsiameh/Desktop/coderswhotravel/FilesForPythonProject/logs.py", line 25, in divide
+    out = x/y
+ZeroDivisionError: division by zero
+2022-08-17 10:42:29 AM : ERROR : logs.py : Divide x/y = None
+2022-08-17 10:42:29 AM : INFO : logs.py : Finished ...
+2022-08-17 10:42:37 AM : INFO : logs.py : Start ...
+2022-08-17 10:42:37 AM : ERROR : logs.py : Division by zero!
+Traceback (most recent call last):
+  File "/Users/tsiameh/Desktop/coderswhotravel/FilesForPythonProject/logs.py", line 25, in divide
+    out = x/y
+ZeroDivisionError: division by zero
+2022-08-17 10:42:37 AM : ERROR : logs.py : Divide x/y = None
+2022-08-17 10:42:37 AM : INFO : logs.py : Finished ...
